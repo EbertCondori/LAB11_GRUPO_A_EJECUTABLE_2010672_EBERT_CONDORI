@@ -134,7 +134,7 @@ int main(){
 }
 */
 
-
+//ejercicio 4
 struct Persona
 {
 	string nombre;
